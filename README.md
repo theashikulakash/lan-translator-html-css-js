@@ -14,11 +14,6 @@ A simple Language Translator app that allows users to translate text between dif
 ## 🌐 Live Demo
 Check out the live demo of the Language Translator App [here](https://theashikulakash.github.io/lan-translator-html-css-js/).
 
-## 📸 Project Preview
-Here's a sneak peek of the Language Translator App:
-
-![Project Preview](assets/Language-Translator.png)
-
 ## 🚀 Features
 - Allows users to translate text between multiple languages.
 - Provides a copy button to copy the translated text to the clipboard.
