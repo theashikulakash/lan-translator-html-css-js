@@ -12,7 +12,7 @@
 A simple Language Translator app that allows users to translate text between different languages. The app integrates with a translation API to fetch translations in real time. In addition, it includes functionality to copy the translated text and speak the translated text aloud using the browser's text-to-speech feature.
 
 ## 🌐 Live Demo
-Check out the live demo of the Language Translator App [here](https://languages-translators.netlify.app/).
+Check out the live demo of the Language Translator App [here](https://theashikulakash.github.io/lan-translator-html-css-js/).
 
 ## 📸 Project Preview
 Here's a sneak peek of the Language Translator App:
